@@ -1,14 +1,13 @@
 # stbvorbis_sync.js
 
 An ES6, synchronous port of [stbvorbis.js](https://github.com/hajimehoshi/stbvorbis.js).
-
 Suitable for use in the `AudioWorkletGlobalScope`.
 
-Ported for use with [SpessaSynth](https://github.com/spessasus/SpessaSynth)
+Originally ported for use with [SpessaSynth](https://github.com/spessasus/SpessaSynth).
 
 ## Usage
 
-Download `stbvorbis_sync.js`. Copy `stbvorbis_sync.js`.
+Download `stbvorbis_sync.js`. Copy `stbvorbis_sync.js` to your desired destination.
 
 To use, import it like this:
 ```js
